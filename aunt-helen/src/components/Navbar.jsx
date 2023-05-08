@@ -1,8 +1,7 @@
-import React, {Fragment} from 'react'
+import React from 'react'
 
 import ProductDropdown from './ProductDropdown'
 import CartWidget from './CartWidget'
-
 
 const Navbar = () => {
   return (
