@@ -2,7 +2,7 @@
 
 Primera Pre-entrega
 
-
+![Site image](https://raw.githubusercontent.com/ckonata/PreEntrega1-Ziemba/master/readme-files/PrimeraPreEntrega.png)
 
 ## Available Scripts
 
